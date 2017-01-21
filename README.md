@@ -1,5 +1,6 @@
 # Conduct-Me
 Version 0.9.0
+
 At the moment, this project is completely nowhere near being finished - this is simply the hackathon build. I am currently in the process of rewriting the algorithm that determines when to proceed to the next note - ideally, I would like to use machine learning to process and adjust these points so that conducting feels more natural.
 
 After I finish that, and clean up, debug/redesign the user interface, and clean up my code, I will launch an official build. 
